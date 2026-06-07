@@ -1,0 +1,32 @@
+name: moon-generator
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Manuel çalıştırmak istersen
+  schedule:
+    - cron: '0 0 * * *' # Her gün gece yarısı otomatik çalışır
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v3
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Scripti çalıştır
+        run: python converter.py
+
+      - name: Sonuçları kaydet (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add liste.m3u
+          # Eğer değişiklik varsa commit at
+          git commit -m "Otomatik M3U güncellemesi" || exit 0
+          git push
