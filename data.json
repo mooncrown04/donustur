@@ -1,0 +1,204 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-a3df2d67daccd4b3351013a0914e91ee48b3bb0520ca6f40e3e1abf40a42cb19",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 17255,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Anime",
+        "description": "powerboard`un sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/Anime.cs3",
+        "name": "Anime"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-992d66ed86c4997380afce01a354596da9e8eb0412497159095e812f78df6b98",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 31250,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Animediziler",
+        "description": "powerboard`un sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/Animediziler.cs3",
+        "name": "Animediziler"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-ee03bef7d4f0e7608979b14bd014d2eebe51ca951a57cd1a9978d9396fd16e8b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 15748,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "CanliTv",
+        "description": "powerboard`un sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/CanliTv.cs3",
+        "name": "CanliTv"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-36ec631ca6ccc1a7549a19e5c66e154eca5c31876b31553c513491a4a8d61093",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 16688,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "CinemaCity",
+        "description": "CinemaCity` sinema ve dizi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/CinemaCity.cs3",
+        "name": "CinemaCity"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-c2616f8b7587d2c6fc272a4efad2ce1af6d703e977c00038daf2fd89d0deaf32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 45808,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "MoOnCrOwNAlways",
+        "description": "deneme sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/MoOnCrOwNAlways.cs3",
+        "name": "MoOnCrOwNAlways"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-641d36a1b14d1bfa68161f71af15c20bd89ca77df4d3ff9d50fd15996faefa13",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 31268,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Sinema",
+        "description": "powerboard`un sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/Sinema.cs3",
+        "name": "Sinema"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
+        "fileHash": "sha256-708748c82fd4b5894427fb84eeaf2f92cf323d8f9ee2c88f190ae29d2734d66b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 24702,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "TV",
+        "description": "MoOnCrOwN TV",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/TV.cs3",
+        "name": "TV"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-09e7a16bb9bae796c3d8ce7ff5e9c672b26e579a377dfcf44cbd0cbdd2104f0f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 25307,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Vidmody",
+        "description": "Vidmody`un sinema  ve dizi ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/Vidmody.cs3",
+        "name": "Vidmody"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "fileHash": "sha256-42b5ee773f873b6f0dc66a1db690ffae11a5e60a6965ca6221ea6a017b8c24b1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mooncrown04/TestPlugins",
+        "fileSize": 30903,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "MoOnCrOwN",
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xmltv",
+        "description": "powerboard`un sinema ar\u015fivi",
+        "url": "https://raw.githubusercontent.com/mooncrown04/TestPlugins/builds/Xmltv.cs3",
+        "name": "Xmltv"
+    }
+]
