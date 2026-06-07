@@ -8,7 +8,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-# GitHub Actions'ın dosyaları yazabilmesi için gerekli izin
 permissions:
   contents: write
 
@@ -17,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Repoyu çek
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # v3 yerine v4
 
       - name: Python kurulumu
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # v4 yerine v5
         with:
           python-version: '3.9'
 
@@ -30,13 +29,9 @@ jobs:
       - name: Scripti çalıştır
         run: python converter.py
 
-      - name: Sonuçları kaydet (Commit & Push)
+      - name: Sonuçları kaydet
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # m3u_cikti klasöründeki tüm dosyaları ekle
           git add m3u_cikti/*
-          
-          # Eğer değişiklik varsa commit at, yoksa hata vermeden çık
           git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik M3U güncellemesi" && git push)
